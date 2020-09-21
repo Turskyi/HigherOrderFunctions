@@ -1,4 +1,4 @@
-package io.github.turskyi.puprekotlin
+package io.github.turskyi.purekotlin
 
 data class Grocery(
     val name: String, val category: String,
